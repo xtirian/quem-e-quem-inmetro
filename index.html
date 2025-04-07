@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Matheus Fernandes Cunha - xTirian">
+    <title>Quem é quem</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Estilos da seção "Quem é Quem" */
+        .quem-e-quem {
+            background-color: #fff;
+            padding: 40px 0;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .quem-e-quem h1 {
+            font-size: 2.5rem;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .quem-e-quem p {
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+
+        .buket{
+            position: relative;
+        }
+
+        .buket img{
+            height: 100%;
+        }
+
+        .buket_button{
+            position: absolute;
+            content: '';
+            cursor: pointer;
+            transform: translate(-60%, -50%);
+            width: 100px;
+            height: 45px;
+            border: none;
+            background: transparent;
+        }
+
+        @media (max-width: 768px) {
+            .quem-e-quem h1 {
+                font-size: 2rem;
+            }
+
+            .quem-e-quem p {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <section class="quem-e-quem">
+        <div class="container">
+            <h1>Quem é Quem</h1>
+            <p>
+                No Inmetro, acreditamos que o sucesso da nossa organização é construído por pessoas talentosas e dedicadas, que trabalham juntas para alcançar os melhores resultados. Nesta seção, você conhecerá os profissionais que lideram nossa empresa, assumindo papéis estratégicos e inspirando nossas equipes a alcançarem novos patamares.
+            </p>
+        </div>
+    </section>
+    <section class="organograma">
+        <div class="container buket">
+            <img src="../358w/estrutura organizacional 358px.png" alt="" id="organograma-mobile" class="organograma_imagem"> <!-- Mobile -->
+            <img src="../771w/estrutura organizacional 771px.png" alt="" id="organograma-tablet" class="organograma_imagem"> <!-- Tablet -->
+            <img src="../1152w/estrutura organizacional 1152px.png" alt="" id="organograma-desktop" class="organograma_imagem"> <!-- Desktop -->
+            
+            <!-- bukets -->
+             <button class="buket_button" id="buket_presi"></button>
+             <button class="buket_button" id="buket_gabin"></button>
+             <button class="buket_button" id="buket_surgo"></button>
+             <button class="buket_button" id="buket_surrs"></button>
+             <button class="buket_button" id="buket_ouvid"></button>
+             <button class="buket_button" id="buket_profe"></button>
+             <button class="buket_button" id="buket_audin"></button>
+             <button class="buket_button" id="buket_coger"></button>
+             <button class="buket_button" id="buket_dimci"></button>
+             <button class="buket_button" id="buket_dplan"></button>
+             <button class="buket_button" id="buket_diraf"></button>
+             <button class="buket_button" id="buket_dconf"></button>
+             <button class="buket_button" id="buket_dimel"></button>
+             <button class="buket_button" id="buket_dimav"></button>
+             <button class="buket_button" id="buket_cgcom"></button>
+             <button class="buket_button" id="buket_ctinf"></button>
+             <button class="buket_button" id="buket_caint"></button>
+             <button class="buket_button" id="buket_cgcre"></button>
+             <button class="buket_button" id="buket_cored"></button>
+             <button class="buket_button" id="buket_rbmlqi"></button>
+        </div>        
+    </section>
+</body>
+<script>
+
+    // primeiro verifica a tela 
+    const largura_tela = window.screen.width;
+
+    //define a imagem que aparecerá
+    if(largura_tela < 771) {
+        document.getElementById('organograma-mobile').style.display = 'auto';
+        document.getElementById('organograma-tablet').style.display= 'none';
+        document.getElementById('organograma-desktop').style.display= 'none';
+        
+
+        document.getElementById('buket_presi').style.top = '10%';
+        document.getElementById('buket_presi').style.left = '50%';
+        document.getElementById('buket_surgo').style.top = '15%';
+        document.getElementById('buket_surgo').style.left = '20%';
+        document.getElementById('buket_surrs').style.top = '20%';
+        document.getElementById('buket_surrs').style.left = '20%';
+        document.getElementById('buket_gabin').style.top = '26%';
+        document.getElementById('buket_gabin').style.left = '20%';
+        document.getElementById('buket_rbmlqi').style.top = '31%';
+        document.getElementById('buket_rbmlqi').style.left = '20%';
+
+
+        document.getElementById('buket_coger').style.top = '11%';
+        document.getElementById('buket_coger').style.left = '83%';
+        document.getElementById('buket_ouvid').style.top = '17%';
+        document.getElementById('buket_ouvid').style.left = '83%';
+        document.getElementById('buket_profe').style.top = '24%';
+        document.getElementById('buket_profe').style.left = '83%';
+        document.getElementById('buket_audin').style.top = '30%';
+        document.getElementById('buket_audin').style.left = '83%';
+        
+        document.getElementById('buket_dimci').style.top = '36%';
+        document.getElementById('buket_dimci').style.left = '83%';
+        document.getElementById('buket_dplan').style.top = '42%';
+        document.getElementById('buket_dplan').style.left = '83%';
+        document.getElementById('buket_diraf').style.top = '47%';
+        document.getElementById('buket_diraf').style.left = '83%';
+        document.getElementById('buket_dconf').style.top = '53%';
+        document.getElementById('buket_dconf').style.left = '83%';
+        document.getElementById('buket_dimel').style.top = '58%';
+        document.getElementById('buket_dimel').style.left = '83%';
+        document.getElementById('buket_dimav').style.top = '64%';
+        document.getElementById('buket_dimav').style.left = '83%';
+
+        document.getElementById('buket_ctinf').style.top = '69%';
+        document.getElementById('buket_ctinf').style.left = '83%';
+        document.getElementById('buket_caint').style.top = '76%';
+        document.getElementById('buket_caint').style.left = '83%';
+        document.getElementById('buket_cgcre').style.top = '82%';
+        document.getElementById('buket_cgcre').style.left = '83%';
+        document.getElementById('buket_cgcom').style.top = '87%';
+        document.getElementById('buket_cgcom').style.left = '83%';
+        document.getElementById('buket_cored').style.top = '94%';
+        document.getElementById('buket_cored').style.left = '83%';
+    } else if(largura_tela < 1152 && largura_tela >= 771 ) {
+        document.getElementById('organograma-mobile').style.display = 'none';
+        document.getElementById('organograma-tablet').style.display= 'auto';
+        document.getElementById('organograma-desktop').style.display= 'none';        
+    } else {
+        document.getElementById('organograma-mobile').style.display = 'none';
+        document.getElementById('organograma-tablet').style.display= 'none';
+        document.getElementById('organograma-desktop').style.display= 'auto';        
+    }
+
+
+</script>
+</html>
