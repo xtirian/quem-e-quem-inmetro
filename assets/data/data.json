@@ -3,7 +3,7 @@
       "photo": "none.jpg",
       "name": "Márcio André Oliveira Brito",
       "place": "Presidência",
-      "sector": "Instituto de Pesos e Medidas do Amazonas (Ipem/AM)",
+      "sector": "Presidência",
       "email": "gabinete.presidencia@inmetro.gov.br",
       "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/copy_of_curriculo_marcioandre_inmetro.pdf",
       "description": "Engenheiro ambiental, especialista em metrologia Legal e mestrando no curso profissional em Engenharia, Gestão de Processos, Sistema e Ambiental. Desde 2011 era presidente do Instituto de Pesos e Medidas do Amazonas (Ipem/AM), onde iniciou a carreira como estagiário e exerceu as funções de agente fiscalizador, gerente de Metrologia Legal, chefe de Departamento, coordenador de Metrologia Legal e assessor da Presidência."
@@ -21,8 +21,8 @@
       "photo": "none.jpg",
       "name": "Arlindo Afonso Alves",
       "place": "Assessores da Presidência",
-      "sector": "Instituto de Pesos e Medidas de São Paulo",
-      "email": "curriculoarlindoafonsoalves.pdf",
+      "sector": "Presidência",
+      "email": "gabinete.presidencia@inmetro.gov.br",
       "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculoarlindoafonsoalves.pdf",
       "description": "É bacharel em ciências econômicas. Foi subprefeito da Mooca, em São Paulo, diretor da Empresa Municipal de Urbanização de São Paulo e assessor em diversas instituições."
     },
@@ -30,7 +30,7 @@
       "photo": "none.jpg",
       "name": "Luiz Souto Madureira",
       "place": "Assessores da Presidência",
-      "sector": "Instituto de Pesos e Medidas do Amazonas (Ipem/AM)",
+      "sector": "Presidência",
       "email": "gabinete.presidencia@inmetro.gov.br",
       "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculoluizsoutomadureira.pdf",
       "description": "É economista, com especialização em comércio exterior. Foi coordenador de Esportes e secretário adjunto da Justiça e da Defesa da Cidadania do Estado de São Paulo."
@@ -38,8 +38,8 @@
     {
       "photo": "none.jpg",
       "name": "Gildasio Nascimento Rocha",
-      "place": "Diretoria de Administração e Finanças - Diraf",
-      "sector": "Instituto Baiano de Metrologia e Qualidade (IBAMETRO)",
+      "place": "Diretor de Administração e Finanças",
+      "sector": "Diretoria de Administração e Finanças - Diraf",
       "email": "diraf@inmetro.gov.br",
       "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/CurriculumVitaeSougovGildasio.pdf",
       "description": "É formado em administração pública, especialista em planejamento urbano e gestão de cidades pela Universidade de Salvador, metrologista e radialista."
@@ -47,8 +47,8 @@
     {
       "photo": "none.jpg",
       "name": "João Nery Rodrigues Filho",
-      "place": "Diretoria de Avaliação da Conformidade - Dconf",
-      "sector": "Instituto de Pesos e Medidas do Amazonas",
+      "place": "Diretor de Avaliação da Conformidade - Dconf",
+      "sector": "Diretoria de Avaliação da Conformidade - Dconf",
       "email": "dconf@inmetro.gov.br",
       "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/Curriculo_Joao_Nery.pdf",
       "description": "Engenheiro Mecânico com mestrado em Engenharia de Produção, pela Universidade Federal do Amazonas e especialização em Gestão da Qualidade e da Produtividade."
@@ -56,8 +56,8 @@
     {
         "photo": "none.jpg",
         "name": "Luiz Fernando Rust da Costa Carmo",
-        "place": "Diretoria de Metrologia Científica, Industrial e Tecnologia - Dimci",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Diretor de Metrologia Científica, Industrial e Tecnologia",
+        "sector": "Diretoria de Metrologia Científica, Industrial e Tecnologia - Dimci",
         "email": "dimci@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculoluizfernandorustdacostacarmo.pdf",
         "description": "Servidor do Inmetro, Especialista Sênior, Engenheiro Eletrônico, Mestre em Engenharia de Sistemas e Computação Doutor em Informática e Pós-doutorado no Centro de Pesquisa da United Technologies em Connecticut/EUA."
@@ -65,8 +65,8 @@
       {
         "photo": "none.jpg",
         "name": "Marcelo Luís Figueiredo Morais",
-        "place": "Diretoria de Metrologia Legal - Dimel",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Diretor de Metrologia Legal",
+        "sector": "Diretoria de Metrologia Legal - Dimel",
         "email": "dimel@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/Curriculo_Marcelo_Morais.pdf",
         "description": "Matemático, com especialização e mestrado profissional em Metrologia e Qualidade. Servidor do Inmetro desde 2002."
@@ -74,8 +74,8 @@
       {
         "photo": "none.jpg",
         "name": "Maycon Danylo Araújo Monteiro",
-        "place": "Diretoria de Inovação, Planejamento e Articulação Institucional - Dplan",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Diretor de Inovação, Planejamento e Articulação Institucional",
+        "sector": "Diretoria de Inovação, Planejamento e Articulação Institucional - Dplan",
         "email": "dplan@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/Curriculo_Maycon_Danylo.pdf",
         "description": "Administrador, Formado em História pela UESPI, Perito Contábil, Auditor e Professor no Ensino Superior e Médio."
@@ -83,8 +83,8 @@
       {
         "photo": "none.jpg",
         "name": "Raimundo Alves de Rezende",
-        "place": "Coordenação-Geral da Rede Brasileira de Metrologia Legal e Qualidade (RBMLQ-I) - Cored",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Coordenador-Geral da Rede Brasileira de Metrologia Legal e Qualidade",
+        "sector": "Coordenação-Geral da Rede Brasileira de Metrologia Legal e Qualidade (RBMLQ-I) - Cored",
         "email": "cored@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/CurriculoEdnaGov1.pdf",
         "description": "Atuou como Chefe do Laboratório de Força e Dureza por 11 anos; como Chefe da Divisão de Metrologia Mecânica (Dimec) por 4 anos."
@@ -92,8 +92,8 @@
       {
         "photo": "none.jpg",
         "name": "Marcos Valério Barradas (substituto)",
-        "place": "Coordenação-Geral de Acreditação - Cgcre",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Coordenador-Geral de Acreditação",
+        "sector": "Coordenação-Geral de Acreditação - Cgcre",
         "email": "cgcre@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculomarcosvaleriobarradas.pdf",
         "description": "Possui formação em engenharia mecânica, com pós-graduação em Gestão da Qualidade pela Faculdade Pedro II."
@@ -101,8 +101,8 @@
       {
         "photo": "none.jpg",
         "name": "Jorge Antonio da Paz Cruz",
-        "place": "Coordenação-Geral de Articulação Internacional - Caint",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Coordenador-Geral de Articulação Internacional",
+        "sector": "Coordenação-Geral de Articulação Internacional - Caint",
         "email": "caint@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculojorgeantoniodapazcruz.pdf",
         "description": "Pesquisador-Tecnologista em Metrologia e Qualidade, graduado em Engenharia Operacional Fabricação Mecânica e em Engenharia Mecânica."
@@ -110,8 +110,8 @@
       {
         "photo": "none.jpg",
         "name": "Alicia Daiana Oliveira Bentes",
-        "place": "Coordenação-Geral de Comunicação Social e Relações Institucionais (Cgcom)",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Coordenadora-Geral de Comunicação Social e Relações Institucionais",
+        "sector": "Coordenação-Geral de Comunicação Social e Relações Institucionais (Cgcom)",
         "email": "cgcom@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/Curriculo_Alicia_Bentes.pdf",
         "description": "É jornalista especialista em assessoria de comunicação e mídias digitais. Atua na área de comunicação há mais de 20 anos."
@@ -119,17 +119,17 @@
       {
         "photo": "none.jpg",
         "name": "Rita de Cassia Tudinho",
-        "place": "Corregedoria - Coger",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Corregedora",
+        "sector": "Corregedoria - Coger",
         "email": "coger@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/Curriculo_Rita_Cassia_Tudinho.pdf",
         "description": "Mestre em Sistemas de Gestão (UFF), com especializações em Auditoria (UFRJ) e Qualidade/Produtividade (FGV). Iniciou sua carreira no Inmetro em 1992."
-      },
-      {
+    },
+    {
         "photo": "none.jpg",
         "name": "Carlos Otávio de Almeida Afonso",
-        "place": "Auditoria Interna - Audin",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Auditor Interno",
+        "sector": "Auditoria Interna - Audin",
         "email": "audin@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculo-carlos-otavio-de-almeida-afonso.pdf",
         "description": "É doutor em ciências econômicas pela Universidad Nacional De La Matanza, UNLAM, mestre em gestão e estratégia pela UFRRJ."
@@ -137,8 +137,8 @@
       {
         "photo": "none.jpg",
         "name": "José Araújo Souza Neto",
-        "place": "Ouvidoria - Ouvid",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Ouvidor",
+        "sector": "Ouvidoria - Ouvid",
         "email": "ouvid@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/Curriculo_Jose.pdf",
         "description": "Bacharelado em Direito pela Universidade Estadual de Feira de Santana (UEFS), especialista em Defesa Econômica e Direito Econômico pela FGV."
@@ -146,8 +146,8 @@
       {
         "photo": "none.jpg",
         "name": "Maíra Cauhi Wanderley",
-        "place": "Procuradoria Federal - Profe",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Procuradora Federal",
+        "sector": "Procuradoria Federal - Profe",
         "email": "profe@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculomairacauhiwanderley.pdf",
         "description": "Graduada em Direito (2002), especialização pela UFF (2008) e pós-graduada em Advocacia Pública pela Escola da AGU em Advocacia Pública (2023)."
@@ -155,8 +155,8 @@
       {
         "photo": "none.jpg",
         "name": "Nilton César Guimarães Rezende",
-        "place": "Superintendência de Goiás - Surgo",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Superintendente de Goiás",
+        "sector": "Superintendência de Goiás - Surgo",
         "email": "surgo@inmetro.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/copy_of_Curriculo_Nilton.pdf",
         "description": "Rua 148, s/nº, Setor Sul - Goiânia - Goiás."
@@ -164,10 +164,10 @@
       {
         "photo": "none.jpg",
         "name": "Omer Pohlmann Filho",
-        "place": "Superintendência do Rio Grande do Sul - Surrs",
-        "sector": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+        "place": "Superintendente do Rio Grande do Sul",
+        "sector": "Superintendência do Rio Grande do Sul - Surrs",
         "email": "surrs@inmetro.rs.gov.br",
         "curriculum_link": "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculooswaldowander",
-        "description": "" 
+        "description": "Admistrador, formado pela Pontifícia Universidade Católica do Rio Grande do Sul – PUCRS, com especialização em Análise de Sisemas e possui Mestrado em Informática."
       }
 ]
